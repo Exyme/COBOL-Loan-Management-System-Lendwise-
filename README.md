@@ -51,3 +51,9 @@ Example code snippet from Read & Update (handling overdue):
           PERFORM 800-UPDATE-PAYMENT-PLAN-STATUS
        END-IF
     END-IF.
+```
+
+## Lessons Learned
+- Optimizing COBOL PERFORM loops for efficient SQL cursors.
+- Handling DB2 error codes in production JCL.
+- COBOL's relevance in finance for reliable transaction processing.
